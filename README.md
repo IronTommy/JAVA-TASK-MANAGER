@@ -3,7 +3,7 @@
 
 ## Описание:
 
-REST приложение на основе Java Core для организации работы над задачами. Не скромно говоря - аналог Jira
+REST приложение на основе Java Core для организации работы над задачами. Не скромно говоря - аналог Jira.
 
 Приложение имеет следующую модель:
 ![Alt text](https://github.com/Gidrosliv/java-TaskManager/blob/main/schema.png?raw=true)
